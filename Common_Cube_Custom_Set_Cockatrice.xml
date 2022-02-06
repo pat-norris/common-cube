@@ -1,0 +1,2187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>BCC</name>
+<longname>Common Cube</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Undead Executioner</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Undead Executioner dies, you may have target creature get -2/-2 until end of turn.
+Threshold — When Undead Executioner dies, if there are seven or more cards in your graveyard, you may have target creature get -2/-2 until end of turn.</text>
+</card>
+<card>
+ <name>Orcish Lemonade</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Orcish Lemonade deals 2 damage any target and 3 damage to you.
+Draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Smoldering Efreet</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Efreet Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Smoldering Efreet dies, it deals 2 damage to you.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
+</card>
+<card>
+ <name>Alpha Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Haste</text>
+</card>
+<card>
+ <name>Obelisk of Grixis</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add U, B, or R.
+UBR, T, Sacrifice Obelisk of Grixis: Draw a card.</text>
+</card>
+<card>
+ <name>Untamed Might</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>XG</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +X/+X until end of turn.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, that creature gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Shepherd of Rot</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Each player loses 1 life for each Zombie on the battlefield.
+Morbid — 2B, T: Create a 2/2 black Zombie creature token. Use this ability only if a creature died this turn.</text>
+</card>
+<card>
+ <name>Deathgreeter</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Extort (Whenever you cast a spell, you may pay W/B. If you do, each opponent loses 1 life and you gain that much life.)
+Whenever another creature dies, you may gain 1 life.</text>
+</card>
+<card>
+ <name>Reinforced Bulwark</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Wall </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+T: Prevent the next 1 damage that would be dealt to you this turn.</text>
+</card>
+<card>
+ <name>Sulfur Vent</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Sulfur Vent enters the battlefield tapped.
+T: Add B.
+T, Sacrifice Sulfur Vent: Add UR.
+Landfall — T: Add U, B, or R. Use this ability only if a land entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Ponyback Brigade</name>
+ <set rarity="common"></set>
+ <color>WBR</color>
+ <manacost>3RWB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Goblin Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Ponyback Brigade enters the battlefield or is turned face up, create three 1/1 red goblin creature tokens.
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Morph 2RWB (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)</text>
+</card>
+<card>
+ <name>Dead Reckoning</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Flash
+You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card’s power to target creature.</text>
+</card>
+<card>
+ <name>Timberland Guide</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.
+Battalion — Whenever Timberland Guide and at least two other creatures attack, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Ancient Spring</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Ancient Spring enters the battlefield tapped.
+T: Add U.
+T, Sacrifice Ancient Spring: Add WB.
+Landfall — T: Add W, U, or B. Use this ability only if a land entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Ichor Wellspring</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Ichor Wellspring enters the battlefield or dies, draw a card.
+Metalcraft — Ichor Wellspring is a 2/2 Ooze artifact creature as long as you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Morgue Toad</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Toad </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice Morgue Toad: Add UR.
+Scavenge UR (UR, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Ajani's Mantra</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Graft 1, Graft 1
+At the beginning of your upkeep, you gain 1 life.</text>
+</card>
+<card>
+ <name>Burst of Energy</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surge 0 (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Untap target permanent.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+</card>
+<card>
+ <name>Scarscale Ritual</name>
+ <set rarity="common"></set>
+ <color>UB</color>
+ <manacost>1U/B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast Scarscale Ritual, put a -1/-1 counter on a creature you control.
+Draw two cards.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Scry 3, then draw two cards instead.</text>
+</card>
+<card>
+ <name>Aether Adept</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Kicker B (You may pay an additional B as you cast this spell.)
+When Aether Adept enters the battlefield, return target creature to its owner’s hand. If Aether Adept was kicked, target player discards a card.</text>
+</card>
+<card>
+ <name>Reclaim</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target card from your graveyard on top of your library. Clash with an opponent. If you win, draw a card. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</text>
+</card>
+<card>
+ <name>Valiant Guard</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Frenzy 3 (Whenever this creature attacks and isn’t blocked, it gets +3/+0 until end of turn.)</text>
+</card>
+<card>
+ <name>Plummet</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with flying.
+Overload 3GG (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+</card>
+<card>
+ <name>Accorder's Shield</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>0</manacost>
+ <cmc>0</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Living weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +0/+3 and has vigilance.
+Equip 3</text>
+</card>
+<card>
+ <name>Kenichi, History's Mightiest Disciple</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - HumanMartial Artist </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+Defender, Reach
+Prowess, Evolve</text>
+</card>
+<card>
+ <name>Tinder Farm</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Tinder Farm enters the battlefield tapped.
+T: Add G.
+T, Sacrifice Tinder Farm: Add RW.
+Landfall — T: Add R, G, or W. Use this ability only if a land entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Harvest Gwyllion</name>
+ <set rarity="common"></set>
+ <color>WB</color>
+ <manacost>2W/BW/B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Hag </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Wither (This deals damage to creatures in the form of -1/-1 counters.)</text>
+</card>
+<card>
+ <name>Medicine Runner</name>
+ <set rarity="common"></set>
+ <color>WG</color>
+ <manacost>1G/W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Medicine Runner enters the battlefield, you may remove a counter from target permanent.
+When Medicine Runner enters the battlefield, populate. (Create a token that’s a copy of a creature token you control.)</text>
+</card>
+<card>
+ <name>Shimmering Wings</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature has flying.
+U: Return Shimmering Wings to its owner’s hand.</text>
+</card>
+<card>
+ <name>Drelnoch</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Yeti Mutant </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Drelnoch becomes blocked, you may draw two cards.
+Megamorph—-Draw two cards (You may cast this face down as a 2/2 creature for 3. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Distortion Strike</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +1/+0 until end of turn and can’t be blocked this turn.
+Scry 2.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Iron Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add R.
+Metalcraft — T: Add RR. Use this ability only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Axebane Stag</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>6G</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Elk </type>
+ <pt>6/7</pt>
+ <tablerow>2</tablerow>
+ <text>Scavenge 3GG (3GG, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Tin Street Hooligan</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Goblin Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Surge G (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+When Tin Street Hooligan enters the battlefield, if G was spent to cast Tin Street Hooligan, destroy target artifact.</text>
+</card>
+<card>
+ <name>Beeloheanach, the Renegade</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Demon </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Renown 2 (When this creature deals combat damage to a player, if it isn’t renowned, put two +1/+1 counters on it and it becomes renowned.)
+When Beeloheanach becomes renowned, you may destroy target non-Demon creature.</text>
+</card>
+<card>
+ <name>Rakdos Shred-Freak</name>
+ <set rarity="common"></set>
+ <color>BR</color>
+ <manacost>B/RB/R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Berserker </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Tribute 2 (As this creature enters the battlefield, an opponent of your choice may put two +1/+1 counters on it.)
+Haste
+When Rakdos Shred-Freak enters the battlefield, if tribute wasn’t paid, Rakdos Shred-Freak gets +1/+0 until end of turn and you draw a card.</text>
+</card>
+<card>
+ <name>Single-Mind Ogre</name>
+ <set rarity="common"></set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Ogre Mutant </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Single-Mind Ogre enters the battlefield, target player reveals a card at random from their hand, then loses life equal to that card’s converted mana cost.</text>
+</card>
+<card>
+ <name>Auriok Sunchaser</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Raid — When Auriok Sunchaser enters the battlefield, if you attacked with a creature this turn, create a 1/1 colorless Thopter artifact creature token with flying.
+Metalcraft — As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.</text>
+</card>
+<card>
+ <name>Flurry of Horns</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Flash
+Create two 2/3 red Minotaur creature tokens with haste.</text>
+</card>
+<card>
+ <name>Prodigal Pyromancer</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall — Whenever a land enters the battlefield under your control, untap Prodigal Pyromancer.
+T: Prodgial Pyromancer deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Ardent Recruit</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt></pt>
+ <tablerow>2</tablerow>
+ <text>When Ardent Recruit enters the battlefield, Investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+Metalcraft — Ardent Recruit gets +2/+2 as long as you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Crippling Chill</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target creature. It doesn’t untap during its controller’s next untap step.
+Draw a card.
+Fateful hour — If you have 5 or less life, Crippling Chill has replicate U. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)</text>
+</card>
+<card>
+ <name>Silent Artisan</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Giant </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Heroic — Whenever you cast a spell that targets Silent Artisan, create a 0/3 colorless Wall artifact creature token with defender.</text>
+</card>
+<card>
+ <name>Keldon Marauders</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Keldon Marauders enters or leaves the battlefield, it deals 1 damage to target player.</text>
+</card>
+<card>
+ <name>Obelisk of Jund</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add B, R, or G.
+BRG, T, Sacrifice Obelisk of Jund: Draw a card.</text>
+</card>
+<card>
+ <name>Dawnfluke</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elemental </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Dawnfluke enters the battlefield, prevent the next 3 damage that would be dealt to target creature or player this turn.
+When Dawnfluke enters the battlefield, detain target nonland permanent. (Until your next turn, that permanent can’t attack or block and its activated abilities can’t be activated.)
+Evoke W (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Basal Sliver</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Sliver </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>All Slivers have “Sacrifice this creature: Add BB.”
+Scavenge BB (BB, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)</text>
+</card>
+<card>
+ <name>Fortress Crab</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Crab </type>
+ <pt>1/6</pt>
+ <tablerow>2</tablerow>
+ <text>Affinity for Islands (This spell costs 1 less to cast for each Island you control.)
+Flash</text>
+</card>
+<card>
+ <name>The One-Foot Wonder</name>
+ <set rarity="common"></set>
+ <color>UR</color>
+ <manacost>U/R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Goblin Luchador </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever The One-Foot Wonder loses flying, you may have it fight target creature.
+U/R: The One-Foot Wonder gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Hooded Assassin</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Assassin </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Skulk (This creature can’t be blocked by creatures with greater power.)
+When Hooded Assassin enters the battlefield, choose one —
+• Put a +1/+1 counter on Hooded Assassin.
+• Destroy target creature that was dealt damage this turn.</text>
+</card>
+<card>
+ <name>Obelisk of Naya</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add R, G, or W.
+RGW, T, Sacrifice Obelisk of Naya: Draw a card.</text>
+</card>
+<card>
+ <name>Sunlance</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Sunlance deals 3 damage to target nonwhite creature.
+Hellbent — As long as you have no cards in hand, Sunlance has lifelink.</text>
+</card>
+<card>
+ <name>Glitterfang</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Glitterfang exploits a creature, manifest the top card of your library.
+At end of turn, return Glitterfang to its owner’s hand.</text>
+</card>
+<card>
+ <name>Somnomancer</name>
+ <set rarity="common"></set>
+ <color>WU</color>
+ <manacost>1W/U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Kithkin Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Somnomancer enters the battlefield, you may tap target creature.
+Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may tap two target creatures instead.</text>
+</card>
+<card>
+ <name>Jascus, Student of War</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)
+As long as Jascus is renowned, it gains exalted.</text>
+</card>
+<card>
+ <name>Icatian Javelineers</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Icatian Javelineers enters the battlefield with a Javelin counter on it and it has haste if it entered the battlefield from a graveyard.
+T: Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to any taret.
+Heroic — Whenever you cast a spell that targets Icatian Javelineers it gains “T: Remove a javelin counter from Icatian Javelineers: Destroy target non-artifact creature.” until end of turn.</text>
+</card>
+<card>
+ <name>Ass-Licker</name>
+ <set rarity="common"></set>
+ <color>WBG</color>
+ <manacost>3WBG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Morbid — Ass-Licker costs 2 less to cast if a creature died this turn.
+Lifelink
+Morph 2WBG (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)</text>
+</card>
+<card>
+ <name>Rhino Storm</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>7G</manacost>
+ <cmc>8</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 4/4 green Rhino creature token with trample, then populate. (Create a token that’s a copy of a creature token you control.)
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+</card>
+<card>
+ <name>Foxfire Oak</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Treefolk Shaman </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+R/GR/GR/G: Foxfire Oak gets +3/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Leaden Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add B.
+Metalcraft — T: Add BB. Use this ability only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Mr Steal Your Legs</name>
+ <set rarity="common"></set>
+ <color>BG</color>
+ <manacost>3B/GB/G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Insect </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Emerge 2B/GB/G (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
+Reach, Fear</text>
+</card>
+<card>
+ <name>Bear Cub</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bear </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Enrage — Whenever Bear Cub is dealt damage, create a 2/2 green Bear creature token.</text>
+</card>
+<card>
+ <name>Trumpet Blast</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Attacking creatures get +2/+0 until end of turn.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+</card>
+<card>
+ <name>Jascus' Revenge</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker W (You may pay an additional W as you cast this spell.)
+Destroy target artifact or enchantment. If Jascus’ Revenge was kicked, you may also destroy target black creature.</text>
+</card>
+<card>
+ <name>Sigiled Skink</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Lizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
+As long as Sigiled Skink is paired with another creature, each of those creatures has “Whenever this creature attacks, scry 1.”</text>
+</card>
+<card>
+ <name>Immolating Souleater</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Hound </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Metalcraft — If you control three or more artifacts, when Immolating Souleater enters the battlefield it fights target creature.
+H/R: Immolating Souleater gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Canyon Minotaur</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Minotaur Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Raid — At the end of your turn, if you attacked with a creature, draw a card.</text>
+</card>
+<card>
+ <name>Geothermal Crevice</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Geothermal Crevice enters the battlefield tapped.
+T: Add R.
+T, Sacrifice Geothermal Crevice: Add BG.
+Landfall — T: Add B, R, or G. Use this ability only if a land entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Oculus</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Homonculus </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Oculus dies, you may draw a card.
+Transfigure UU (UU, Sacrifice this creature: Search your library for a creature card with the same mana value as this creature and put that card onto the battlefield, then shuffle. Transfigure only as a sorcery.)</text>
+</card>
+<card>
+ <name>Twitch</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>You may tap or untap target artifact, creature, or land.
+Draw a card.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+</card>
+<card>
+ <name>Beeloheanach's Banquet</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature if it has the least power or is tied for the least power among creatures in play.
+Flashback—Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Tree Monkey</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Ape </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Reach, Deathtouch</text>
+</card>
+<card>
+ <name>Gerrard's Command</name>
+ <set rarity="common"></set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. It gets +3/+3 until end of turn.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)</text>
+</card>
+<card>
+ <name>Walking Corpse</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)</text>
+</card>
+<card>
+ <name>Swegn, Hardened Berserker</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Berserker </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Raid — Swegn costs 2 less to cast if you attacked with a creature this turn.
+Whenever Swegn attacks, the next spell you cast this turn costs 1 less to cast.
+Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)
+As long as Swegn is renowned, it has battle cry and first strike. (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+</card>
+<card>
+ <name>Obelisk of Esper</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add W, U, or B.
+WUB, T, Sacrifice Obelisk of Esper: Draw a card.</text>
+</card>
+<card>
+ <name>Zulrajas, Growth Master</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Troll Mutant </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Graft 2
+1G: Regenerate target creature with a +1/+1 counter on it.
+Renown 2 (When this creature deals combat damage to a player, if it isn’t renowned, put two +1/+1 counters on it and it becomes renowned.)
+When Zulrajas becomes renowned, you may put a +1/+1 counter on up to two other target creatures.</text>
+</card>
+<card>
+ <name>Frostling</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bestow U (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)
+Sacrifice Frostling: Frostling deals 1 damage to target creature.
+Enchanted creature gets +1/+1 and gains “T: Tap target creature.”</text>
+</card>
+<card>
+ <name>Guardians of Meletis</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, Reach</text>
+</card>
+<card>
+ <name>Death Denied</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>XBB</manacost>
+ <cmc>2</cmc>
+ <type>Instant - Arcane </type>
+ <tablerow>3</tablerow>
+ <text>Return X target creature cards from your graveyard to your hand.
+Morbid — If a creature died this turn, create a 2/2 black Zombie creature token.</text>
+</card>
+<card>
+ <name>Dreg Reaver</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Zombie Beast </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Delve (Each card you exile from your graveyard while casting this spell pays for 1.)
+Devour 1 ( As this enters the battlefield, you may sacrifice any number of creatures. This permanent enters the battlefield with one times that many +1/+1 counters on it.)</text>
+</card>
+<card>
+ <name>Scatter the Seeds</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)
+Buyback 2G (You may pay an additional 2G as you cast this spell. If you do, put this card into your hand as it resolves.)
+Create three 1/1 green Saproling creature tokens.</text>
+</card>
+<card>
+ <name>Chrome Steed</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Horse </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)
+Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Irrigation Ditch</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Irrigation Ditch enters the battlefield tapped.
+T: Add W.
+T, Sacrifice Irrigation Ditch: Add GU.
+Landfall — T: Add G, W, or U. Use this ability only if a land entered the battlefield under your control this turn.</text>
+</card>
+<card>
+ <name>Charging Rhino</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Rhino </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Charging Rhino can’t be blocked by more than one creature.</text>
+</card>
+<card>
+ <name>Reinforcements Ex Machina</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Miracle W (You may cast this card for its miracle cost when you draw it if it’s the first card you drew this turn.)
+Create three 1/1 white Soldier creature tokens.</text>
+</card>
+<card>
+ <name>Lens of Clarity</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>You may look at the top card of your library and at face-down creatures you don’t control. (You may do this at any time.)
+Landfall — Whenever a land enters the battlefield under your control, scry 2.</text>
+</card>
+<card>
+ <name>Mogg Flunkies</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Golbin </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Mogg Flunkies can’t attack or block alone.</text>
+</card>
+<card>
+ <name>Elvish Pioneer</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.
+Landfall — Whenever a land enters the battlefield under your control, you may pay 2. If you do, draw a card.</text>
+</card>
+<card>
+ <name>Big Baby</name>
+ <set rarity="common"></set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Beast Baby </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, haste
+Enrage — Whenever Big Baby is dealt damage, put a +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Fire at Will</name>
+ <set rarity="common"></set>
+ <color>WR</color>
+ <manacost>R/WR/WR/W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Fire at Will deals 3 damage divided as you choose among any number of target attacking or blocking creatures.
+Raid — If you attack with a creature this turn, Fire at Will deals 6 damage divided as you choose among any number of target attacking or blocking creatures instead.</text>
+</card>
+<card>
+ <name>Mongolian Death Wurm</name>
+ <set rarity="common"></set>
+ <color>RG</color>
+ <manacost>4RG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Wurm </type>
+ <pt>7/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flash; convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)</text>
+</card>
+<card>
+ <name>Coiling Oracle</name>
+ <set rarity="common"></set>
+ <color>UG</color>
+ <manacost>GU</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Snake Elf Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Coiling Oracle enters the battlefield, scry 2, then reveal the top card of your library. If it’s a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)</text>
+</card>
+<card>
+ <name>Dregscape Zombie</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Dregscape Zombie enters the battlefield, detain target creature. (Until your next turn, that creature can’t attack or block and its activated abilities can’t be activated.)
+Unearth B (B: Return this card from your graveyard to the battlefield. It gains hate. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Aerie Ouphes</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Ouphe </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Morbid — When Aerie Ouphes enters the battlefield, if a creature died this turn, create a 2/2 green Ouphe creature token with reach.
+Sacrifice Aerie Ouphes: Aerie Ouphes deals damage equal to its power to target creature with flying.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)</text>
+</card>
+<card>
+ <name>Edge of Autumn</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Cycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)
+When you cycle Edge of Autumn, create a 0/1 green Plant creature token with “T: Add G.”</text>
+</card>
+<card>
+ <name>Viper's Kiss</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets -1/-1, and its activated abilities can’t be activated.
+Morbid — At the beginning of each end step, if a creature died this turn, put a -1/-1 counter on enchanted creature.</text>
+</card>
+<card>
+ <name>Hissing Iguanar</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Lizard </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.</text>
+</card>
+<card>
+ <name>Opaline Bracers</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Living Weapon (When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.
+Equip 2</text>
+</card>
+<card>
+ <name>Aradara Express</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Undaunted (This spell costs 1 less to cast for each opponent.)
+Menace
+Crew 4</text>
+</card>
+<card>
+ <name>Forge Devil</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Devil </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Skulk, Frenzy 1
+When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.</text>
+</card>
+<card>
+ <name>Golgari Rotwurm</name>
+ <set rarity="common"></set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Zombie Wurm </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Landfall — Whenever a land enters the battlefield under your control, create a 1/1 black and green Worm creature token.
+B, Sacrifice a creature: Target player loses 1 life.</text>
+</card>
+<card>
+ <name>Kemba's Skyguard</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Cat Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Raid — When Kemba’s Skyguard enters the battlefield, if you attacked with a creature this turn, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)
+Flying
+When Kemba’s Skyguard enters the battlefield, you gain 2 life.</text>
+</card>
+<card>
+ <name>Deadly Recluse</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spider </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Deathtouch
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Surya, Sunseeker</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Cat Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)
+As long as Surya is renowned, it has protection from black and from red. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything black or red.)
+Inspired — Whenever Surya, Sunseeker becomes untapped, you gain 2 life.</text>
+</card>
+<card>
+ <name>Duergar Assailant</name>
+ <set rarity="common"></set>
+ <color>WR</color>
+ <manacost>R/W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dwarf Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Battalion — Whenever Duergar Assailant and at least two other creatures attack, Duergar Assailant gains deathtouch until end of turn.
+Sacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.</text>
+</card>
+<card>
+ <name>Jace's Erasure</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Constellation — Whenever Jace’s Erasure or another enchantment enters the battlefield under your control, draw a card.
+Whenever you draw a card, you may have target player put the top card of his or her library into his or her library.</text>
+</card>
+<card>
+ <name>Excise</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>XW</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target attacking creature unless its controller pays X.
+Hellbent — As long as you have no cards in hand, exile target attacking creature instead.</text>
+</card>
+<card>
+ <name>Spireside Infiltrator</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever Spireside Infiltrator becomes tapped, it deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Echo Tracer</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Morph 2U
+Megamorph 3UU
+When Echo Tracer is turned face up, if it’s morph cost was paid, return target creature to its owner’s hand.
+When Echo Tracer is turned face up, if it’s megamorph cost was paid, return two target creatures to their owner’s hands.</text>
+</card>
+<card>
+ <name>Silver Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add U.
+Metalcraft — T: Add UU. Use this ability only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Copper Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add G.
+Metalcraft — T: Add GG. Use this ability only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Gold Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add W.
+Metalcraft — T: Add WW. Use this ability only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Steward of Valeron</name>
+ <set rarity="common"></set>
+ <color>WG</color>
+ <manacost>GW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Druid Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add G.</text>
+</card>
+<card>
+ <name>Viashino Firstblade</name>
+ <set rarity="common"></set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Viashino Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn.
+Dash 2RW (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</text>
+</card>
+<card>
+ <name>Raging Goblin</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Goblin Berserker </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, Frenzy 1</text>
+</card>
+<card>
+ <name>Blazing Torch</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature can’t be blocked by Vampires or Zombies.
+Equipped creature has “T, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player.”
+Equipped creature has “T, Sacrifice Blazing Torch: Exile all cards from target player’s graveyard.”
+Equip 1</text>
+</card>
+<card>
+ <name>Grixis Panorama</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+2B: Until end of turn, Grixis Panorama becomes a 2/2 black Zombie creature with “Whenever Grixis Panorama attacks, each opponent loses 2 life.” It’s still a land.
+Unearth B (B: Return this card from your graveyard to the battlefield. It gains hate. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jund Panorama</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Devour 3 ( As this enters the battlefield, you may sacrifice any number of creatures. This permanent enters the battlefield with three times that many +1/+1 counters on it.)
+T: Add C.
+1, T, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.
+4R: Until end of turn, Jund Panorama becomes a 0/0 red Elemental creature. It’s still a land.</text>
+</card>
+<card>
+ <name>Bant Panorama</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped. Then shuffle your library.
+5W: Until end of turn, Bant Panorama becomes a 5/8 white Angel creature with defender, flying, and “All damage that would be dealt to you is dealt to Bant Panorama instead.” It’s still a land. Use this ability only if you control no creatures.</text>
+</card>
+<card>
+ <name>Esper Panorama</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.
+Metalcraft — 2U: Until end of turn, Esper Panorama becomes a 3/2 blue Construct artifact creature with flying. It’s still a land. Use this ability only if you control three or more artifacts.</text>
+</card>
+<card>
+ <name>Naya Panorama</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library.
+Ferocious — 3G: Until end of turn, Naya Panorama becomes a 5/4 green Beast creature with trample. It’s still a land. Use this ability only if you control a creature with power 4 or greater.</text>
+</card>
+<card>
+ <name>Insatiable Souleater</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Beast </type>
+ <pt>5/1</pt>
+ <tablerow>2</tablerow>
+ <text>Tribute 2 (As this creature enters the battlefield, an opponent of your choice may put two +1/+1 counters on it.)
+When Insatiable Souleater enters the battlefield, if tribute wasn’t paid, it gains haste until end of turn.
+H/G: Insatiable Souleater gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Siegecraft</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Enchanted creature gets +2/+4
+0: Switch enchanted creature’s power and toughness until end of turn. Activate this ability only if you have the city’s blessing.</text>
+</card>
+<card>
+ <name>Omega Myr</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Fateful hour — As long as you have 5 or less life, Omega Myr has base power and toughness 6/6 and gains flying, first strike, vigilance, trample, haste, and protection from black and from red. (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything black or red.)</text>
+</card>
+<card>
+ <name>Fate Transfer</name>
+ <set rarity="common"></set>
+ <color>UB</color>
+ <manacost>1U/B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 1U/BU/B (You may pay an additional 1U/BU/B as you cast this spell.)
+Move all counters from target creature onto another target creature. If Fate Transfer was kicked, exchange control of those two creatures.</text>
+</card>
+<card>
+ <name>Hornet Sting</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Hornet Sting deals 1 damage to any target. Create a 1/1 green Insect token with flying and deathtouch.</text>
+</card>
+<card>
+ <name>Magus of the Lens</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>You may look at face-down creatures you don’t control. (You may do this at any time.)
+Landfall — Whenever a land enters the battlefield under your control, scry 2.</text>
+</card>
+<card>
+ <name>Shark Marsh</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Shark Marsh enters the battlefield tapped.
+When Shark Marsh enters the battlefield, target player loses 1 life.
+Landfall — Whenever a Swamp enters the battlefield under your control, target player loses 1 life.
+T: Add B.</text>
+</card>
+<card>
+ <name>Footbottom Feast</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.
+Morbid — You gain 3 life if a creature died this turn.</text>
+</card>
+<card>
+ <name>Plumes of Peace</name>
+ <set rarity="common"></set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature doesn’t untap during its controller’s untap step.
+Forecast — WU, Reveal Plumes of Peace from your hand: Tap target creature, then scry 1. (Activate this ability only during your upkeep and only once each turn.)</text>
+</card>
+<card>
+ <name>Thundersong Trumpeteater</name>
+ <set rarity="common"></set>
+ <color>WR</color>
+ <manacost>RW</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Target creature can’t attack or block this turn.
+1R, T: Target creature attacks this turn is able.
+1W, T: Target creature blocks this turn if able.</text>
+</card>
+<card>
+ <name>Assassinate</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target tapped creature.
+Flashback—-B, Discard a card (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Forecast — WW, Reveal Assassinate from your hand: Tap target creature. (Activate this ability only during your upkeep and only once each turn.)</text>
+</card>
+<card>
+ <name>Roshen, Elemental Fist</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Efreet Monk Adventurer </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Whenever you cast a noncreature spell, Roshen gains first strike until end of turn.
+Party Up — Whenever Roshen attacks, if you control a non-red adventurer, you may pay RW. If you do, target creature can’t attack or block until the start of your next turn.</text>
+</card>
+<card>
+ <name>Andaru the Archdruid</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Giant Druid Adventurer </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Andaru enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Reveal a creature card in your hand: If that creature has flying, Andaru gains flying until end of turn. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance. Use this ability only once per turn and only on your turn.
+Party Up — XGG: Andaru becomes an X/X until the end of turn. Use this ability only if you control a non-green adventurer.</text>
+</card>
+<card>
+ <name>Thought Scour</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target player puts the top two cards of their library into their graveyard.
+Draw a card.
+Flashback 1U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Hexplate Golem</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>7</manacost>
+ <cmc>7</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>5/7</pt>
+ <tablerow>2</tablerow>
+ <text>Sacrifice an artifact: Hexplate Golem gains trample until end of turn.
+Sacrifice a land: Hexplate Golem gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Dross Ripper</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Hound </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>2B: Dross Ripper gets +1/+1 until end of turn. Draw a card. You lose 1 life.</text>
+</card>
+<card>
+ <name>Bloodtallow Candle</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>6, T, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 until end of turn.</text>
+</card>
+<card>
+ <name>Headless Skaab</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Warrior </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast Headless Skaab, exile a creature card from your graveyard.
+Headless Skaab enters the battlefield tapped.
+Threshold — As long as there are seven or more cards in your graveyard, Headless Skaab can block an additional creature.</text>
+</card>
+<card>
+ <name>Short Storm</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Kicker 9 (You may pay an additional 9 as you cast this spell.)
+When Short Storm enters the battlefield, if the kicker cost was paid, create 15 copies of Short Storm.
+Equipped creature gets +1/+1.
+Equip 1</text>
+</card>
+<card>
+ <name>Unmake the Graves</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Spectacle 5BB (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)
+Return up to two target creature cards from your graveyard to your hand. If the spectacle cost was paid, return those creatures to the battlefield instead.</text>
+</card>
+<card>
+ <name>Horned Kavu</name>
+ <set rarity="common"></set>
+ <color>RG</color>
+ <manacost>RG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Kavu </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Horned Kavu enters the battlefield, return a red or green creature you control to its owner’s hand. If that creature had power 4 or greater, put two +1/+1 counters on Horned Kavu.</text>
+</card>
+<card>
+ <name>Flameborn Viron</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Insect </type>
+ <pt>6/4</pt>
+ <tablerow>2</tablerow>
+ <text>Surge 3R (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)</text>
+</card>
+<card>
+ <name>Naya Sojourners</name>
+ <set rarity="common"></set>
+ <color>WRG</color>
+ <manacost>2RGW</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Elf Shaman </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.
+Cycling 2G (2G, Discard this card: Draw a card.)
+At the beginning of your upkeep, if Naya Sojourners is in your graveyard, you may pay 2G. If you do, put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Tortured Existence</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Legendary Enchantment - God </type>
+ <tablerow>1</tablerow>
+ <text>Wither
+B, Choose and discard a creature card: Return target creature card from your graveyard to your hand.
+When a creature devotes to Tortured Existence, put a -1/-1 on that creature.
+Devote 3 (Tap any number of creatures you control with total toughness 3 or greater: This god becomes an enchantment creature and gains indestructible until end of turn.)</text>
+</card>
+<card>
+ <name>Canyon Lurkers</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>5/2</pt>
+ <tablerow>2</tablerow>
+ <text>Morph 3R (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Whenever a creature attacks you, you may pay R. If you do, turn Canyon Lurkers face up.</text>
+</card>
+<card>
+ <name>MaYo, Ghostslayer</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Warrior Adventurer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When MaYo enters the battlefield, you may return target Aura or Equipment card from your graveyard to your hand.
+Whenever MaYo blocks or becomes blocked by a Spirit, destroy that creature it can’t be regenerated.
+Party Up — 1W: Regenerate MaYo. Activate this ability only if you control another non-white adventurer.</text>
+</card>
+<card>
+ <name>Spin Engine</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature is dealt damage by Spin Engine, that creature can’t be regenerated this turn.
+R: Target creature can’t block Spin Engine this turn.</text>
+</card>
+<card>
+ <name>Esper Sojourners</name>
+ <set rarity="common"></set>
+ <color>WUB</color>
+ <manacost>WUB</manacost>
+ <cmc>3</cmc>
+ <type>Artifact Creature - Vedalken Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.
+Cycling 2U (2U, Discard this card: Draw a card.)
+At the beginning of your upkeep, if Esper Sojourners is in your graveyard, you may pay 2U. If you do, you may tap or untap target permanent.</text>
+</card>
+<card>
+ <name>Embodiment of Spring</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elemental </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>1G, T, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+At the beginning of your end step, if no lands entered the battlefield under your control that turn and Embodiment of Spring is in your graveyard, you may exile Embodiment of Spring. If you do, create two 0/1 green Plant creature tokens.</text>
+</card>
+<card>
+ <name>Woolly Loxodon</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <cmc>7</cmc>
+ <type>Creature - Elephant Warrior </type>
+ <pt>6/7</pt>
+ <tablerow>2</tablerow>
+ <text>Morph 5G (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Delirium — Wooly Loxodon gains trample as long as there are four or more card types among cards in your graveyard.</text>
+</card>
+<card>
+ <name>Cathartic Adept</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Target player puts the top card of their library into their graveyard.
+Threshold — T: Target player puts the top three cards of their library into their graveyard. Use this ability only if there are seven or more cards in your graveyard.</text>
+</card>
+<card>
+ <name>Orcish Lumberjack</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Orc </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice a Forest: Add three mana in any combination of R and/or G.
+2RG, T, Sacrifice Orcish Lumberjack: Destroy all lands.</text>
+</card>
+<card>
+ <name>Myr Enforcer</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>7</manacost>
+ <cmc>7</cmc>
+ <type>Artifact Creature - Myr </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
+When Myr Enforcer enters the battlefield, create three 1/1 colorless Myr artifact creature tokens.</text>
+</card>
+<card>
+ <name>Claws of Valakut</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+0 for each Mountain you control and has first strike.
+Cycling 2 (2, Discard this card: Draw a card.)
+Madness R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Elsewhere Flask</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Elsewhere Flask enters the battlefield, draw a card.
+Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn.
+Unearth 1 (1: Return this card from your graveyard to the battlefield. It gains hate. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Cogwork Librarian</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Construct </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Draft Cogwork Librarian face up and note how many times Cogwork Librarian has been drafted.
+As you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.
+If Cogwork Librarian was drafted one or more times, it has “Hexproof from instants”.
+If Cogwork Librarian was drafted two or more times, it gains “When Cogwork Librarian enters the battlefield, search your library for a sorcery, reveal it, and add it to your hand.”
+If Cogwork Librarian was drafted three or more times, it has “Spells you cast cost 1 less to cast.”</text>
+</card>
+<card>
+ <name>Storm Crow</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Storm Crow deals combat damage to a player, put a storm counter on it. (When you cast this spell, copy it for each spell cast before it this turn.)
+Remove two storm counters from Storm Crow: The next instant or sorcery you cast this turn gains storm. (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+</card>
+<card>
+ <name>Organ Grinder</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature an opponent controls dies, untap Organ Grinder.
+T, Exile three cards from your graveyard: Target player loses three life.</text>
+</card>
+<card>
+ <name>Bant Sojourners</name>
+ <set rarity="common"></set>
+ <color>WUG</color>
+ <manacost>1GWU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>When you cycle Bant Sojourners or it dies, you may create a 1/1 white Soldier creature token.
+Cycling 2W (2W, Discard this card: Draw a card.)
+At the beginning of your upkeep, if Bant Sojourners is in your graveyard, you may pay 2W. If you do, create a 1/1 white Soldier creature token.</text>
+</card>
+<card>
+ <name>Billy the Kidd</name>
+ <set rarity="common"></set>
+ <color>WU</color>
+ <manacost>W/U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Kithkin Soldier Adventurer </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Billy the Kidd can’t be blocked.
+Whenever Billy the Kidd attacks and is not blocked, you may choose to have it deal no combat damage this turn. If you do, create a colorless Treasure artifact token with “T, Sacrifice this artifact: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Petrahydrox</name>
+ <set rarity="common"></set>
+ <color>UR</color>
+ <manacost>3U/R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Wierd </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Petrahydrox enters the battlefield, discard a card.
+When Petrahydrox becomes the target of a spell of ability, return Petrahydrox to its owner’s hand.
+When Petrahydrox leaves the battlefield, draw two cards.</text>
+</card>
+<card>
+ <name>Jund Sojourners</name>
+ <set rarity="common"></set>
+ <color>BRG</color>
+ <manacost>BRG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Viashino Shaman </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to any target.
+Cycling 2R (2R, Discard this card: Draw a card.)
+At the beginning of your upkeep, if Jund Sojourners is in your graveyard, you may pay 1R. If you do, deal 1 damage to any target.</text>
+</card>
+<card>
+ <name>Alice, Creepy Girl</name>
+ <set rarity="common"></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Creature - Human Rogue Adventurer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Fear
+Party Up — 2BB, T, Exile four target creature cards from graveyards: Create a legendary 4/4 black zombie creature token with “4BBBB: Monstrosity 4.” and “As long as Fourmen is monstrous it gains fear.” named Fourmen. Use this ability only if you control another non-black adventurer. (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+3B, Exile Alice from your graveyard: Create a 2/2 black zombie creature token. Activate this ability any time you could cast a sorcery.</text>
+</card>
+<card>
+ <name>Loot the Bodies</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target artifact or enchantment card in a graveyard to its owner’s hand.
+Composition — If you control two adventurers of different colors, draw a card.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)</text>
+</card>
+<card>
+ <name>Nasi, Silent Wizard</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Wizard Adventurer </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+Party Up — Whenever Nasi attacks, if you control a non-blue adventurer, adventurer’s you control gain flying until end of turn.</text>
+</card>
+<card>
+ <name>Furious Assault</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment - God </type>
+ <tablerow>1</tablerow>
+ <text>Double strike
+Whenever you cast a creature spell Furious Assault deals 1 damage to target player.
+Only creatures without summoning sickness can devote to Furious Assault.
+Devote 2 (Tap any number of creatures you control with total toughness 2 or greater: This god becomes an enchantment creature and gains indestructible until end of turn.)</text>
+</card>
+<card>
+ <name>Blastfire Bolt</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>5R</manacost>
+ <cmc>6</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surge 2R (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Blastfire Bolt deals 5 damage to target creature. Destroy all Equipment attached to that creature.</text>
+</card>
+<card>
+ <name>Keep Watch</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all combat damage that would be dealt this turn.
+Draw a card for each attacking creature.</text>
+</card>
+<card>
+ <name>Manaforge Cinder</name>
+ <set rarity="common"></set>
+ <color>BR</color>
+ <manacost>B/R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elemental Shaman </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>1: Add B or R. Activate this ability no more than three times each turn.
+B/RB/RB/RB/RB/R: Deal 8 damage to each creature.</text>
+</card>
+<card>
+ <name>Empty the Warrens</name>
+ <set rarity="common"></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 red Goblin creature tokens.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Forecast — 1R, Reveal Empty the Warrens from your hand: Create a 1/1 red Goblin creature token.</text>
+</card>
+<card>
+ <name>Screeching Skaab</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard.
+Threshold — As long as there are seven or more cards in your graveyard, Screeching Skaab gets +2/+2.</text>
+</card>
+<card>
+ <name>Grixis Sojourners</name>
+ <set rarity="common"></set>
+ <color>UBR</color>
+ <manacost>1UBR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Zombie Ogre </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When you cycle Grixis Sojourners or it dies, you may exile target card in a graveyard.
+Cycling 2B (2B, Discard this card: Draw a card.)
+At the beginning of your upkeep, if Grixis Sojourners is in your graveyard, you may pay 1B. If you do, exile target card in a graveyard.</text>
+</card>
+<card>
+ <name>Aura Flux</name>
+ <set rarity="common"></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment - God </type>
+ <tablerow>1</tablerow>
+ <text>Each other enchantment gains “During your upkeep, pay 2 or sacrifice this enchantment.”
+Devote 3 (Tap any number of creatures you control with total toughness 3 or greater: This god becomes an enchantment creature and gains indestructible until end of turn.)</text>
+</card>
+<card>
+ <name>Fanatical Devotion</name>
+ <set rarity="common"></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment - God </type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice a creature: Regenerate target creature. Put a +1/+1 counter on Fanatical Devotion.
+Devote 4 (Tap any number of creatures you control with total toughness 4 or greater: This god becomes an enchantment creature and gains indestructible until end of turn.)</text>
+</card>
+<card>
+ <name>Night Soil</name>
+ <set rarity="common"></set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <cmc>2</cmc>
+ <type>Legendary Enchantment - God </type>
+ <tablerow>1</tablerow>
+ <text>Trample
+1, Exile two creature cards from a single graveyard: Create a 1/1 green Saproling creature token.
+Night Soil gets +1/+1 for each creature card in exile.
+Devote 4 (Tap any number of creatures you control with total toughness 4 or greater: This god becomes an enchantment creature and gains indestructible until end of turn.)</text>
+</card>
+<card>
+ <name>Obelisk of Bant</name>
+ <set rarity="common"></set>
+ <color></color>
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+T: Add G, W, or U.
+GWU, T, Sacrifice Obelisk of Bant: Draw a card.</text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Fourmen</name>
+ <set></set>
+ <color>B</color>
+ <type>Legendary Token Creature - Zombie </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>4BBBB: Monstrosity 4. (If this creature isn’t monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+As long as Fourmen is monstrous, it has fear. (This creature can’t be blocked except by artifact creatures and/or black creatures.)</text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
